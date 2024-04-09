@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "588972985147",
+    "project_id": "codematchhub-2e476",
+    "storage_bucket": "codematchhub-2e476.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588972985147:android:488c01f8c0ddb2f15b851e",
+        "android_client_info": {
+          "package_name": "com.codematchhub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588972985147-o1h91nmgttj49gi5r35ar3ne20lf330f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSDDNGS_uWZNIW66ILz7SQ4U3bb9SZNv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588972985147-o1h91nmgttj49gi5r35ar3ne20lf330f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
