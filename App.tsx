@@ -37,6 +37,7 @@ type SectionProps = PropsWithChildren<{
 const Stack = createStackNavigator();
 
 function App(): JSX.Element {
+  
   const isDarkMode = useColorScheme() === 'dark';
   const [userData, setUserData] = useState(false);
   const backgroundStyle = {
